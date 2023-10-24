@@ -1,2 +1,2 @@
 # SideProject2 <br>
-模型訓練檔為Bert_test.ipynb
+Bert_test.ipynb 為模型訓練檔
